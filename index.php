@@ -14,6 +14,7 @@
     <title>WordPress Theme</title>
 </head>
 <body>
-  Hello World  
+  <header>Header</header> 
+  <footer>Footer</footer>
 </body>
 </html>
